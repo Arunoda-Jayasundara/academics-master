@@ -128,11 +128,11 @@
         </div>
       </div>
 
-      <div class="intro-section" style="background-image: url('images/hero_1.jpg');">
+      <div class="intro-section" style="background-image: url('images/wall1.jpg');">
         <div class="container">
           <div class="row align-items-center">
             <div class="col-lg-12 mx-auto text-center" data-aos="fade-up">
-              <h1>You Can Learn Anything</h1>
+              <h1>You Can Learn Anything About Physics</h1>
             </div>
           </div>
         </div>
